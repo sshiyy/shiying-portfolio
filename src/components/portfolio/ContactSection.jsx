@@ -6,9 +6,9 @@ import { Button } from "@/components/ui/button";
 
 export default function ContactSection() {
   const socials = [
-    { name: "Email", icon: Mail, href: "mailto:your.email@example.com", label: "your.email@example.com" },
-    { name: "LinkedIn", icon: Linkedin, href: "https://linkedin.com/in/yourprofile", label: "/in/yourprofile" },
-    { name: "GitHub", icon: Github, href: "https://github.com/yourusername", label: "@yourusername" },
+    { name: "Email", icon: Mail, href: "mailto:shiyingtam06@gmail.com", label: "shiyingtam06@gmail.com" },
+    { name: "LinkedIn", icon: Linkedin, href: "https://www.linkedin.com/in/shi-ying-tam-44abb6272/", label: "Shi Ying Tam" },
+    { name: "GitHub", icon: Github, href: "https://github.com/sshiyy", label: "sshiyy" },
   ];
 
   return (
@@ -98,7 +98,7 @@ export default function ContactSection() {
           className="text-center mt-12"
         >
           <a
-            href="mailto:your.email@example.com"
+            href="mailto:shiyingtam06@gmail.com"
             className="inline-flex items-center gap-3 px-8 py-4 bg-gradient-to-r from-pink-500 to-rose-500 rounded-full text-white font-semibold hover:shadow-lg hover:shadow-pink-500/25 transition-all duration-300"
           >
             <Send className="w-5 h-5" />
