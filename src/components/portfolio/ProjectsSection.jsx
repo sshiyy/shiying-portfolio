@@ -17,7 +17,7 @@ export default function ProjectsSection() {
       duration: "3 months",
       team: "Team",
       role: "Full-Stack Developer",
-      links: { github: "#" },
+      links: { github: "https://github.com/ZXawsy/FSDPAssg_P04_Grp3" },
     },
     {
       title: "F&B Mobile App",
@@ -29,7 +29,7 @@ export default function ProjectsSection() {
       duration: "3 months",
       team: "Team",
       role: "Mobile Developer",
-      links: { github: "#" },
+      links: { github: "https://github.com/sshiyy/MAD24_P01_Team4" },
     },
     {
       title: "Movie Application",
@@ -41,7 +41,7 @@ export default function ProjectsSection() {
       duration: "2 months",
       team: "Team",
       role: "Full-Stack Developer",
-      links: { github: "#" },
+      links: { github: "https://github.com/yihong-0-6/BED2024Apr_P04_T4" },
     },
     {
       title: "Ice Cream Shop Ordering System",
@@ -53,7 +53,7 @@ export default function ProjectsSection() {
       duration: "6 weeks",
       team: "Solo",
       role: "Developer",
-      links: { github: "#" },
+      links: { github: "https://github.com/sshiyy/prg_assignment" },
     },
     {
       title: "F&B Queuing App",
@@ -69,7 +69,7 @@ export default function ProjectsSection() {
       duration: "3 weeks",
       team: "Team",
       role: "UI/UX Designer",
-      links: { demo: "#" },
+      links: { demo: "https://www.figma.com/proto/22A31137Ri30IMp4THuuxK/DUX_Assg1_P04_TamShiYing?node-id=4-4&starting-point-node-id=4%3A4" },
     },
     {
       title: "Studying App",
@@ -85,7 +85,7 @@ export default function ProjectsSection() {
       duration: "3 weeks",
       team: "Team",
       role: "UI/UX Designer",
-      links: { demo: "#" },
+      links: { demo: "https://www.figma.com/proto/7MxHoZvnQchBEMapG1h0ZN/CapyBuddy_DUX_Asg2_MobilePrototype?node-id=236-152&starting-point-node-id=236%3A152" },
     },
     {
       title: "Eric Chou Café",
@@ -100,7 +100,7 @@ export default function ProjectsSection() {
       duration: "4 weeks",
       team: "Solo",
       role: "Web Developer",
-      links: { github: "#" },
+      links: { github: "https://github.com/sshiyy/fed-assignment-2" },
     },
     {
       title: "Beauty & Skincare Web",
@@ -115,7 +115,7 @@ export default function ProjectsSection() {
       duration: "3 weeks",
       team: "Solo",
       role: "Web Developer",
-      links: { github: "#" },
+      links: { github: "https://github.com/sshiyy/assessment-1" },
     },
   ];
 
